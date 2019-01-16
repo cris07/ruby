@@ -1,2 +1,2 @@
 # ruby
-ejemplos y ejercicios de ruby
+ejemplos y ejercicios en ruby basico-intermedio
