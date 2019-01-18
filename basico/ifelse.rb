@@ -1,3 +1,12 @@
+# Sentencia if-else
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplos de sentencia if-else
+=end
+
 uno=10
 dos=20
 

@@ -1,3 +1,13 @@
+# Uso de Time
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Creacion de Time, presentacion de sus atributos y 
+	 	formatos
+=end
+
 tiempo = Time.new
 puts tiempo.inspect
 

@@ -1,3 +1,13 @@
+# Ehemplos basicos en Ruby
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplos en ruby para imprimir cadenas, numeros
+	 	en diferentes formatos, etc
+=end
+
 #Mi primer programa en Ruby
 
 puts "Hola mundo :D"

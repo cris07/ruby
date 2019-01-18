@@ -1,3 +1,12 @@
+# Uso de numeros en Ruby
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejercicios variados con numeros en Ruby
+=end
+
 puts 0.zero?
 
 puts 1.zero?

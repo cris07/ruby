@@ -1,3 +1,12 @@
+# Modulos
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Creacion de modulos para calcular el numero factorial
+=end
+
 module Modulo
 	CONST=4
 

@@ -1,3 +1,13 @@
+# Ejemplos con POO
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Diferentes ejemplos con Programacion Orientada a Objetos POO
+	 	manejo de clases, herencia, instanciacion, etc
+=end
+
 class NombreClase
 	#atributos
 	#metodos

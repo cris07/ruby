@@ -1,3 +1,12 @@
+# Manejo de fechas
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejercicios con fechas
+=end
+
 require 'date'
 fecha = Date.new
 p fecha

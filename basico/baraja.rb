@@ -1,10 +1,19 @@
+# Ejemplo para obtener cartas de una baraja al azar
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Realiza un sorteo de cartas al azar utilizando un numero random
+=end
+
 def sacarCarta
   palos = %w[ corazones treboles picas diamantes]
   numero = %w[ A 2 3 4 5 6 7 8 9 10 J Q K ]
  
   #Quiero una carta aleatoria que tiene:
-  #  -un palo aleatorio
-  #  -un número aleatorio
+  #  un palo aleatorio
+  #  un número aleatorio
  
   #palo aleatorio
   num = palos.length

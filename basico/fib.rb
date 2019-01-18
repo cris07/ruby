@@ -1,4 +1,11 @@
+# Calculadora del numero de Fibonacci
+# Author:: Cristian Zuñiga
 
+# encoding: utf-8
+
+=begin 
+	 	Calcula el numero de fibonacci a partir de un numero dado
+=end
 def fibo(n)
 	if n <= 1
 		n

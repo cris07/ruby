@@ -1,3 +1,12 @@
+# Uso de modulos
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Manupilacion de modulos creados
+=end
+
 require_relative 'modulos'
 
 Modulo.metodo
