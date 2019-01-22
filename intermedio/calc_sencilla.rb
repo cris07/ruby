@@ -1,3 +1,12 @@
+# Calculadora sencilla 
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplo básico de la implementación de una calculadora
+=end
+
 #Datos (Objetos)
 suma = Proc.new do |x,y| puts "#{x}+#{y} = #{x+y}" end
 resta = Proc.new do |x,y| puts "#{x}-#{y} = #{x-y}" end

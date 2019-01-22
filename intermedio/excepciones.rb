@@ -1,3 +1,12 @@
+# Manejo de excepciones
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplos de excepciones en tiempo de ejecucion
+=end
+
 =begin
 def mostrarExcepcion
 	puts "Estoy haciendo el metodo"

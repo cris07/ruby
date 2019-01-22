@@ -1,3 +1,12 @@
+# Bloques de codigo
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplo de bloques de codigo y su ejecucion
+=end
+
 #Bloques
  
 3.upto(8){|x| print x}

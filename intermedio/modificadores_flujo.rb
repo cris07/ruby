@@ -1,3 +1,12 @@
+# Modificadores de flujo
+# Author:: Cristian Zuñiga
+
+# encoding: utf-8
+
+=begin 
+	 	Ejemplos de break, next, redo
+=end
+
 #Alteradores de flujo
  
 # break -> Cancela iteraciones
